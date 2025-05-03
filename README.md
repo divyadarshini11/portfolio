@@ -27,8 +27,7 @@
 #### **KERAULite: An end-to-end Keratoconus Classification and Segmentation using Lightweight CNNs**
 - Developed a Ultra-lightweight CNN algorithm for keratoconus classification. With only 2768 training parameter, the model achieved 86% of classification accuracy.
 - Used UNet++ model for segmentation of non-linear patterns in keratoconus.
-- Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
-\
+- Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea. \
 ![KERAULite](assets/image/cnn%20with%20gradcam.png)
 <p align="center">Flowchart of the Ultralight 2D-CNN with GradCAM model used in this study</p>
 
