@@ -28,6 +28,7 @@
 - Developed a Ultra-lightweight CNN algorithm for keratoconus classification. With only 2768 training parameter, the model achieved 86% of classification accuracy.
 - Used UNet++ model for segmentation of non-linear patterns in keratoconus.
 - Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
+![KERAULite](/assets/image/cnn with gradcam.png)
 
 #### **Sales Forecasting in Pharmaceutical Industry**
 - Used ML based Time Series Forecasting algorithms for drug sales prediction.
