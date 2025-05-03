@@ -1,8 +1,8 @@
 # Machine Learning Engineer
 
-## Skills
-- Technical knowlegde | ML, DL, NLP, LLM, GANs, RAG
-- Programming Language | Python, Java, SQL, VBA
+## Technical Skills
+- Technical Knowlegde | ML, DL, NLP, LLM, GANs, RAG
+- Programming Languages | Python, Java, SQL, VBA
 - Frameworks, Libraries & Tools | PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, Matplotib, Seaborn, MATLAB, Git, Advanced Excel
 
 ## Education
