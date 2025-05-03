@@ -29,6 +29,7 @@
 - Used UNet++ model for segmentation of non-linear patterns in keratoconus.
 - Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
 ![KERAULite](assets/image/cnn%20with%20gradcam.png)
+<p align="center">Flowchart of the Ultralight 2D-CNN with GradCAM model used in this study</p>
 
 #### **Sales Forecasting in Pharmaceutical Industry**
 - Used ML based Time Series Forecasting algorithms for drug sales prediction.
