@@ -5,12 +5,6 @@
 - **Programming Languages:**  Python, Java, SQL, VBA
 - **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, Matplotib, Seaborn, MATLAB, Git, Advanced Excel
 
-## Education
-#### **M.Tech., Biomedical Engineering (AI in Healthcare), IIT Hyderabad** (_2022 - 2024_)
-> _CGPA : 9.00; Relevant Coursework: NLP, LLM, Deep Learning, Medical Imaging Devices_
-
-#### **B.Tech., Information Technology, Anna University** (_2018 - 2022_)
-> _CGPA : 8.99; Relevant Coursework: Artificial Intelligence, Machine Learning, Data Science, Statistics_
 
 ## Work Experience
 #### **AI Researcher @ IIT Hyderabad** (_December 2022 - Present_)
@@ -22,3 +16,27 @@
 #### **Associate Consultant @ Orbees Business Solutions** (_August 2024 - March 2025_)
 - Used Advanced Excel and VBA to analyze neurovascular sales data for a Fortune 500 company in the USA.
 - Collaborated with clients to gather requirements and deliver customized data solutions.
+
+
+## Projects
+#### **Fine-tuned a Generative AI Model for NLP based Dialogue Summarization using AWS**
+- Utilized LLM FLAN T5 and Hugging Faces Dialogue Sum dataset to engineer NLP summarization model.
+- Analyzed model performance by Prompt Engg, Full fine Tuning, PEFT using LoRA and Reinforcement(PPO).
+- Evaluated the Model Quantitatively with ROUGE Metric, achieved 17% of improvement with PEFT model.
+
+#### **KERAULite: An end-to-end Keratoconus Classification and Segmentation using Lightweight CNNs**
+- Developed a Ultra-lightweight CNN algorithm for keratoconus classification. With only 2768 training parameter, the model achieved 86% of classification accuracy.
+- Used UNet++ model for segmentation of non-linear patterns in keratoconus.
+- Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
+
+#### **Sales Forecasting in Pharmaceutical Industry**
+- Used ML based Time Series Forecasting algorithms for drug sales prediction.
+- Developed a simulation setup for drug data collection using NodeMCU and RFID tags.
+
+
+## Education
+#### **M.Tech., Biomedical Engineering (AI in Healthcare), IIT Hyderabad** (_2022 - 2024_)
+> _CGPA : 9.00; Relevant Coursework: NLP, LLM, Deep Learning, Medical Imaging Devices_
+
+#### **B.Tech., Information Technology, Anna University** (_2018 - 2022_)
+> _CGPA : 8.99; Relevant Coursework: Artificial Intelligence, Machine Learning, Data Science, Statistics_
