@@ -6,5 +6,7 @@
 - **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, Matplotib, Seaborn, MATLAB, Git, Advanced Excel
 
 ## Education
-- M.Tech., Biomedical Engineering (AI in Healthcare) | Indian Institute of Technology Hyderabad (_August 2022 - June 2024_)								       		
-- B.Tech., Information Technology	| Thiagrajar College of Engineering, Madurai (_August 2018 - June 2022_)
+**M.Tech., Biomedical Engineering (AI in Healthcare) | Indian Institute of Technology Hyderabad** (_2022 - 2024_)
+_CGPA : 9.00; Relevant Coursework: NLP, LLM,Deep Learning, Medical Imaging Devices_
+**B.Tech., Information Technology	| Thiagrajar College of Engineering, Madurai** (_August 2018 - June 2022_)
+_CGPA : 8.99; Relevant Coursework: Artificial Intelligence, Machine Learning, Data Science, Statistics_
