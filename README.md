@@ -33,6 +33,7 @@
 #### **Sales Forecasting in Pharmaceutical Industry**
 - Used ML based Time Series Forecasting algorithms for drug sales prediction.
 - Developed a simulation setup for drug data collection using NodeMCU and RFID tags.
+![Sales Forecasting](assets/image/Sales_forecasting_project.png)
 
 
 ## Education
