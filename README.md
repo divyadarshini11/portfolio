@@ -49,6 +49,8 @@
 - Achieved accurate wound delineation and revealed peripheral cell migration and improved healing with Q-RLNE treatment.
 - Validated therapeutic efficacy via temporal analysis of segmented mask areas.
 
+![SAM project](assets/image/AI%20based%20image%20segmentation%20image.pptx%20(2).png)
+
 
 ## Education
 #### **M.Tech., Biomedical Engineering (AI in Healthcare), IIT Hyderabad** (_2022 - 2024_)
