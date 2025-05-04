@@ -13,6 +13,7 @@ ________________________________________________________________________________
 - Applied the Transformer-based Segment Anything Model for segmenting in-vitro wound healing and in-vivo wound closure in diabetic-induced rats.
 - Designed and implemented image pre-processing techniques to support medical image classification and segmentation tasks.
 - Contributed in securing Grant TRP3RDHA26262 from AI4CIPS — National AI Hub, Government of India.
+- Published related research and critically reviewed papers from other research groups.
 
 #### **Associate Consultant (Strategy) @ Orbees Business Solutions** (_August 2024 - March 2025_)
 - Used Advanced Excel and VBA to analyze neurovascular sales data for a Fortune 500 company in the USA.
