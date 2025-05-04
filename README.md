@@ -28,11 +28,17 @@
 - Developed a Ultra-lightweight CNN algorithm for keratoconus classification. With only 2768 training parameter, the model achieved 86% of classification accuracy.
 - Used UNet++ model for segmentation of non-linear patterns in keratoconus.
 - Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
+
+
 ![KERAULite](assets/image/KERAULite_project.png)
 
 #### **Sales Forecasting in Pharmaceutical Industry**
-- Used ML based Time Series Forecasting algorithms for drug sales prediction.
+- Implemented and compared ARIMA, Prophet, and LSTM-based models (Stacked LSTM, CNN-LSTM, ConvLSTM) for univariate sales prediction across 8 drug categories.
+- Performed hyperparameter tuning using grid search and achieved best performance with Stacked LSTM.
+- Predicted 10-day future sales, with Stacked LSTM showing superior accuracy across most categories.
 - Developed a simulation setup for drug data collection using NodeMCU and RFID tags.
+
+
 ![Sales Forecasting](assets/image/Sales_forecasting_project.png)
 
 
