@@ -5,6 +5,7 @@
 - **Programming Languages:**  Python, Java, SQL
 - **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, MATLAB, Git, Advanced Excel
 
+____________________________________________________________________________________________________________________________________________________________________
 
 ## Work Experience
 #### **AI Researcher @ IIT Hyderabad** (_December 2022 - Present_)
@@ -17,6 +18,7 @@
 - Used Advanced Excel and VBA to analyze neurovascular sales data for a Fortune 500 company in the USA.
 - Collaborated with clients to gather requirements and deliver customized data solutions.
 
+____________________________________________________________________________________________________________________________________________________________________
 
 ## Projects
 #### **Fine-tuned a Generative AI Model for NLP based Dialogue Summarization using AWS**
@@ -41,6 +43,7 @@
 
 ![Sales Forecasting](assets/image/Sales_forecasting_project.png)
 
+____________________________________________________________________________________________________________________________________________________________________
 
 ## Publications
 #### **Wound healing Segmentation in diabetic-induced rats using Segment Anything Model** [Click here](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adtp.202300345)
@@ -51,6 +54,7 @@
 
 ![SAM project](assets/image/AI%20based%20image%20segmentation%20image.pptx%20(2).png)
 
+____________________________________________________________________________________________________________________________________________________________________
 
 ## Education
 #### **M.Tech., Biomedical Engineering (AI in Healthcare), IIT Hyderabad** (_2022 - 2024_)
