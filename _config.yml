@@ -1,9 +1,6 @@
 title: Divyadarshini M
 logo: assets/image/divya_rectangle_headshot.jpg
-social_links:
-name: LinkedIn
-    url: https://www.linkedin.com/in/divyadarshini-madhavan-2986551b3/
-    icon: linkedin
-description: Machine Learning Engineer with 2+ years of experience in NLP and GenAI. Skilled in developing and deploying LLM models, NLP techniques and Image Processing applications. Holds a Master’s degree from IIT Hyderabad.
+description: >
+  Machine Learning Engineer with 2+ years of experience in NLP and GenAI. Skilled in developing and deploying LLM models, NLP techniques and Image Processing applications. Holds a Master’s degree from IIT Hyderabad. LinkedIn: https://www.linkedin.com/in/divyadarshini-madhavan-2986551b3/
 show_downloads: false
 theme: jekyll-theme-minimal
