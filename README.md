@@ -2,8 +2,8 @@
 
 ## Technical Skills
 - **Technical Knowlegde:** ML, DL, NLP, LLM, GANs, RAG
-- **Programming Languages:**  Python, Java, SQL, VBA
-- **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, Matplotib, Seaborn, MATLAB, Git, Advanced Excel
+- **Programming Languages:**  Python, Java, SQL
+- **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, MATLAB, Git, Advanced Excel
 
 
 ## Work Experience
@@ -28,9 +28,7 @@
 - Developed a Ultra-lightweight CNN algorithm for keratoconus classification. With only 2768 training parameter, the model achieved 86% of classification accuracy.
 - Used UNet++ model for segmentation of non-linear patterns in keratoconus.
 - Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
-![KERAULite](assets/image/cnn%20with%20gradcam.png)
-<p align="center">Flowchart of the Ultralight 2D-CNN with GradCAM model used in this study</p>
-
+![KERAULite](assets/image/KERAULite%20project.png)
 
 #### **Sales Forecasting in Pharmaceutical Industry**
 - Used ML based Time Series Forecasting algorithms for drug sales prediction.
