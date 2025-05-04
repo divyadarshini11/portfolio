@@ -43,11 +43,11 @@
 
 
 ## Publications
-
 #### **Wound healing Segmentation in diabetic-induced rats using Segment Anything Model** [Click here](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adtp.202300345)
 - Applied SAM for automated segmentation of in-vitro and in-vivo wound images across time intervals for Control & Q-RLNE groups.
 - Achieved accurate wound delineation and revealed peripheral cell migration and improved healing with Q-RLNE treatment.
 - Validated therapeutic efficacy via temporal analysis of segmented mask areas.
+
 
 ![SAM project](assets/image/AI%20based%20image%20segmentation%20image.pptx%20(2).png)
 
