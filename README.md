@@ -13,7 +13,7 @@
 - Designed and implemented image pre-processing techniques to support medical image classification and segmentation tasks.
 - Contributed in securing Grant TRP3RDHA26262 from AI4CIPS — National AI Hub, Government of India.
 
-#### **Associate Consultant @ Orbees Business Solutions** (_August 2024 - March 2025_)
+#### **Associate Consultant (Strategy) @ Orbees Business Solutions** (_August 2024 - March 2025_)
 - Used Advanced Excel and VBA to analyze neurovascular sales data for a Fortune 500 company in the USA.
 - Collaborated with clients to gather requirements and deliver customized data solutions.
 
@@ -40,6 +40,14 @@
 
 
 ![Sales Forecasting](assets/image/Sales_forecasting_project.png)
+
+
+## Publications
+
+#### **Wound healing Segmentation in diabetic-induced rats using Segment Anything Model** [Click here](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adtp.202300345)
+- Applied SAM for automated segmentation of in-vitro and in-vivo wound images across time intervals for Control & Q-RLNE groups.
+- Achieved accurate wound delineation and revealed peripheral cell migration and improved healing with Q-RLNE treatment.
+- Validated therapeutic efficacy via temporal analysis of segmented mask areas.
 
 
 ## Education
