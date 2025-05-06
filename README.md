@@ -19,6 +19,12 @@ ________________________________________________________________________________
 - Used Advanced Excel and VBA to analyze neurovascular sales data for a Fortune 500 company in the USA.
 - Collaborated with clients to gather requirements and deliver customized data solutions.
 
+#### **Data Analytics Intern @ Alfaleus Technology Private Limited, IIT Hyderabad** (_February 2024 - July 2025_)
+- Worked on data analytics for the company’s flagship product, Intelligent Vision Analyser (iVA) — a virtual reality-based visual field perimeter used for glaucoma screening and monitoring.
+- Analyzed diagnostic reports and underlying algorithms to identify performance bottlenecks and opportunities for optimization.
+- Collaborated with the core engineering and clinical teams to recommend improvements in algorithmic accuracy and runtime efficiency.
+- Successfully proposed algorithm enhancements that reduced test execution time by 30%, improving overall patient throughput and usability.
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Projects
