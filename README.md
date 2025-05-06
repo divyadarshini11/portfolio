@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Work Experience
-#### **AI Researcher @ IIT Hyderabad** (_December 2022 - Present_)
+#### **AI Researcher @ AI in Healthcare Lab, IIT Hyderabad** (_December 2022 - Present_)
 - Developed Ultra-lightweight CNN-based models for classification and segmentation of Keratoconus disease.
 - Applied the Transformer-based Segment Anything Model for segmenting in-vitro wound healing and in-vivo wound closure in diabetic-induced rats.
 - Designed and implemented image pre-processing techniques to support medical image classification and segmentation tasks.
