@@ -29,10 +29,10 @@ ________________________________________________________________________________
 
 ## Projects
 
-#### **RAG-based Medical Chatbot with Huggingface, LangChain, FAISS & Streamlit**  [Click here] (https://github.com/divyadarshini11/medical-bot)
+#### **RAG-based Medical Chatbot with Huggingface, LangChain, FAISS & Streamlit** [Click here](https://github.com/divyadarshini11/medical-bot)
 - Built a RAG-based chatbot (GaleBot) using the GALE Encyclopedia of Medicine as the knowledge source.
 - Used LangChain, all-MiniLM-L6-v2 sentence transformer for text embeddings, FAISS for semantic similarity-based retrieval, and Mistral-7B LLM for response generation.
-- Deloyed the application on Streamlit for real-time medical Q&A. [GaleBot App] (https://medical-bot-kosgq4nqutwueyeey6mlbj.streamlit.app/)
+- Deloyed the application on Streamlit for real-time medical Q&A. [GaleBot App](https://medical-bot-kosgq4nqutwueyeey6mlbj.streamlit.app/)
 
 ![GaleBot](assets/image/Flowchart.jpg)
 
