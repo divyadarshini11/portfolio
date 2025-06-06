@@ -3,7 +3,7 @@
 ## Technical Skills
 - **Technical Knowlegde:** ML, DL, NLP, LLM, GANs, RAG
 - **Programming Languages:**  Python, Java, SQL
-- **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, MATLAB, Git, Advanced Excel, Streamlit
+- **Frameworks, Libraries & Tools:** PyTorch, TensorFlow, Keras, HuggingFace, Pandas, Numpy, Scikit-learn, LangChain, OpenCV, Git, AWS, Streamlit, MATLAB
 
 ____________________________________________________________________________________________________________________________________________________________________
 
@@ -16,14 +16,15 @@ ________________________________________________________________________________
 - Published related research and critically reviewed papers from other research groups.
 
 #### **Associate Consultant (Strategy) @ Orbees Business Solutions** (_August 2024 - March 2025_)
-- Used Advanced Excel and VBA to analyze neurovascular sales data for a Fortune 500 company in the USA.
-- Collaborated with clients to gather requirements and deliver customized data solutions.
+- Conducted market research, built market models, and led primary interviews to gather business requirements.
+- Analyzed neurovascular market data using advanced Excel and Python for a Fortune 500 client.
+- Collaborated with stakeholders to define requirements and develop SOW.
+- Created strategy to penetrate the $17M U.S. neurovascular market across 74 key accounts.
 
 #### **Data Analytics Intern @ Alfaleus Technology Private Limited, IIT Hyderabad** (_February 2024 - July 2025_)
-- Worked on data analytics for the company’s flagship product, Intelligent Vision Analyser (iVA) — a virtual reality-based visual field perimeter used for glaucoma screening and monitoring.
-- Analyzed diagnostic reports and underlying algorithms to identify performance bottlenecks and opportunities for optimization.
-- Collaborated with the core engineering and clinical teams to recommend improvements in algorithmic accuracy and runtime efficiency.
-- Successfully proposed algorithm enhancements that reduced test execution time by 30%, improving overall patient throughput and usability.
+- Analyzed data for Intelligent Vision Analyser (iVA), a VR-based glaucoma screening tool.
+- Collaborated with engineering and clinical teams to identified performance bottlenecks in diagnostic reports and algorithms for optimization.
+- Proposed algorithm improvements that reduced test execution time by 30%, boosting throughput.
 
 ____________________________________________________________________________________________________________________________________________________________________
 
