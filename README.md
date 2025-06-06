@@ -3,7 +3,7 @@
 ## Technical Skills
 - **Technical Knowlegde:** ML, DL, NLP, LLM, GANs, RAG
 - **Programming Languages:**  Python, Java, SQL
-- **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, MATLAB, Git, Advanced Excel
+- **Frameworks, Libraries & Tools:** PyTorch, Keras, LangChain, HuggingFace, Scikit-learn, Pandas, Numpy, OpenCV, MATLAB, Git, Advanced Excel, Streamlit
 
 ____________________________________________________________________________________________________________________________________________________________________
 
@@ -28,14 +28,22 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Projects
+
+#### **RAG-based Medical Chatbot with Huggingface, LangChain, FAISS & Streamlit**  [Click here] (https://github.com/divyadarshini11/medical-bot)
+- Built a RAG-based chatbot (GaleBot) using the GALE Encyclopedia of Medicine as the knowledge source.
+- Used LangChain, all-MiniLM-L6-v2 sentence transformer for text embeddings, FAISS for semantic similarity-based retrieval, and Mistral-7B LLM for response generation.
+- Deloyed the application on Streamlit for real-time medical Q&A. [GaleBot App] (https://medical-bot-kosgq4nqutwueyeey6mlbj.streamlit.app/)
+
+![GaleBot](assets/image/Flowchart.jpg)
+
+
 #### **Fine-tuned a Generative AI Model for NLP based Dialogue Summarization using AWS**
 - Utilized LLM FLAN T5 and Hugging Faces Dialogue Sum dataset to engineer NLP summarization model.
 - Analyzed model performance by Prompt Engg, Full fine Tuning, PEFT using LoRA and Reinforcement(PPO).
 - Evaluated the Model Quantitatively with ROUGE Metric, achieved 17% of improvement with PEFT model.
 
 #### **KERAULite: An end-to-end Keratoconus Classification and Segmentation using Ultra-Lightweight 2D CNNs**
-- Developed a Ultra-lightweight CNN algorithm for keratoconus classification. With only 2768 training parameter, the model achieved 86% of classification accuracy.
-- Used UNet++ model for segmentation of non-linear patterns in keratoconus.
+- Designed image preprocessing pipelines and developed an Ultra-lightweight CNN for keratoconus classification, achieving 86% accuracy with 2768 parameters. Applied UNet++ for segmentation of non - linear pattern keratoconus, achieving 98% accuracy.
 - Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
 
 
