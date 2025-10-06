@@ -1,51 +1,49 @@
 # Machine Learning Engineer
 
 ## Technical Skills
-- **Technical Knowlegde:** ML, DL, NLP, LLM, RAG
+- **Technical Knowlegde:** ML, DL, NLP, LLM, RAG, Image Processing
 - **Programming Languages:**  Python, Java, SQL
-- **Frameworks, Libraries & Tools:** PyTorch, TensorFlow, Keras, HuggingFace, Pandas, Numpy, Scikit-learn, LangChain, OpenCV, Git, AWS, Streamlit, MATLAB
+- **Frameworks, Libraries & Tools:** PyTorch, TensorFlow, HuggingFace, LangChain, Scikit-learn, Pandas, Numpy, OpenCV, Matplotib, MATLAB, Git, Advanced Excel, FastAPI
 
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Work Experience
-#### **AI Researcher @ AI in Healthcare Lab, IIT Hyderabad** (_December 2022 - Present_)
-- Developed Ultra-lightweight CNN-based models for classification and segmentation of Keratoconus disease.
-- Applied the Transformer-based Segment Anything Model for segmenting in-vitro wound healing and in-vivo wound closure in diabetic-induced rats.
-- Designed and implemented image pre-processing techniques to support medical image classification and segmentation tasks.
-- Contributed in securing Grant TRP3RDHA26262 from AI4CIPS — National AI Hub, Government of India.
-- Published related research and critically reviewed papers from other research groups.
+#### ** Researcher @ Image Processing & Computer Vision Lab, IIT Kharagpur** (_September 2025 - Present_)
+- Developed synthetic datasets and fine-tuned optimization algorithms for image sensing application.
+- Worked with Vision Transformers (SAM) for medical image segmentation and tested VLMs (RED-DOT) for fake news detection.
 
-#### **Associate Consultant (Strategy) @ Orbees Business Solutions** (_August 2024 - March 2025_)
-- Conducted market research, built market models, and led primary interviews to gather business requirements.
-- Analyzed neurovascular market data using advanced Excel and Python for a Fortune 500 client.
-- Collaborated with stakeholders to define requirements and develop SOW.
-- Created strategy to penetrate the $17M U.S. neurovascular market across 74 key accounts.
+#### **Associate Consultant - Data Science @ Orbees Business Solutions** (_August 2024 - March 2025_)
+- Performed data-driven analysis and forecasting of neurovascular sales trends of a Fortune 500 client.
+- Developed and executed a market penetration strategy for the neurovascular segment across 74 key accounts, targeting $17M in U.S. revenue and boosting market share from 43% to 50%.
+- Conducted market research, developed market models, collaborated with stakeholders to define needs and develop the SOW.
 
-#### **Data Analytics Intern @ Alfaleus Technology Private Limited, IIT Hyderabad** (_February 2024 - July 2025_)
-- Analyzed data for Intelligent Vision Analyser (iVA), a VR-based glaucoma screening tool.
-- Collaborated with engineering and clinical teams to identified performance bottlenecks in diagnostic reports and algorithms for optimization.
-- Proposed algorithm improvements that reduced test execution time by 30%, boosting throughput.
+#### **Research Assitant @ AI in Healthcare Lab, IIT Hyderabad** (_December 2022 - June 2024_)
+- Performed image annotation and pre-processing for ocular disease datasets.
+- Designed ML pipeline, constructed and optimized ultra-lightweight CNN architectures for ocular disease detection; evaluated models using standard performance metrics.
+- Implemented a RAG-based chatbot in collaboration with LVPEI and integrated it into their web application.
+- Engaged with stakeholders and engineering teams; co-authored and published a peer-reviewed research paper, contributed to grant acquisition, and submitted an intellectual property patent.
 
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Projects
 
 #### **RAG-based Medical Chatbot with Huggingface, LangChain, FAISS & Streamlit** [Click here](https://github.com/divyadarshini11/medical-bot)
-- Built a RAG-based chatbot (GaleBot) using the GALE Encyclopedia of Medicine as the knowledge source.
-- Used LangChain, all-MiniLM-L6-v2 sentence transformer for text embeddings, FAISS for semantic similarity-based retrieval, and Mistral-7B LLM for response generation.
-- Deloyed the application on Streamlit for real-time medical Q&A. [GaleBot App](https://medical-bot-kosgq4nqutwueyeey6mlbj.streamlit.app/)
+- Streamlined a RAG-based chatbot (GaleBot) using the GALE Encyclopedia of Medicine as the knowledge source.
+- Used LangChain, all-MiniLM-L6-v2 sentence transformer for text embeddings, FAISS for semantic similarity-based retrieval, and Mistral-7B LLM  for response generation.
+- Deloyed the application on Streamlit for real-time medical Q\A. [GaleBot App](https://medical-bot-kosgq4nqutwueyeey6mlbj.streamlit.app/)
 
 ![GaleBot](assets/image/Flowchart.jpg)
 
-
 #### **Fine-tuned a Generative AI Model for NLP based Dialogue Summarization using AWS**
-- Utilized LLM FLAN T5 and Hugging Faces Dialogue Sum dataset to engineer NLP summarization model.
-- Analyzed model performance by Prompt Engg, Full fine Tuning, PEFT using LoRA and Reinforcement(PPO).
-- Evaluated the Model Quantitatively with ROUGE Metric, achieved 17% of improvement with PEFT model.
+- Utilized LLM FLAN T5 and Hugging Face Dialogue Sum dataset to engineer NLP summarization model.
+- Validated model performance by Prompt Engg, Full fine Tuning, PEFT using LoRA and Reinforcement(PPO).
+- Evaluated the model quantitatively with ROUGE Metric, achieved 17\% of improvement with PEFT model.
 
 #### **KERAULite: An end-to-end Keratoconus Classification and Segmentation using Ultra-Lightweight 2D CNNs**
-- Designed image preprocessing pipelines and developed an Ultra-lightweight CNN for keratoconus classification, achieving 86% accuracy with 2768 parameters. Applied UNet++ for segmentation of non - linear pattern keratoconus, achieving 98% accuracy.
-- Extracted geometric features as quantitative measures to assess the non-linearity within the keratoconic cornea.
+- Designed a feature extraction module to capture multiscale linear and non-linear patterns present in keratoconus image datasets.
+- Engineered an ultra-lightweight CNN by modifying the architecture of a conventional CNN for keratoconus detection, achieving 86% classification accuracy with only 2,768 parameters.
+- Obtained a 6% accuracy trade-off compared to conventional CNNs while reducing model size by over 98%.
+- Implemented UNet++ for segmentation of non-linear keratoconus patterns, attaining 98% segmentation accuracy.
 
 
 ![KERAULite](assets/image/KERAULite_project.png)
