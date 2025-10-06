@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Work Experience
-#### ** Researcher @ Image Processing & Computer Vision Lab, IIT Kharagpur** (_September 2025 - Present_)
+#### **Researcher @ Image Processing & Computer Vision Lab, IIT Kharagpur** (_September 2025 - Present_)
 - Developed synthetic datasets and fine-tuned optimization algorithms for image sensing application.
 - Worked with Vision Transformers (SAM) for medical image segmentation and tested VLMs (RED-DOT) for fake news detection.
 
