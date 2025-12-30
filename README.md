@@ -1,4 +1,4 @@
-# PhD @ [IIT Kharagput](https://www.iitkgp.ac.in/) | ML Engineer
+# PhD @ [IIT Kharagpur](https://www.iitkgp.ac.in/) | ML Engineer
 
 ## Area of Research
 - Computer Vision
