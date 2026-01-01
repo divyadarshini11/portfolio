@@ -64,7 +64,7 @@ ________________________________________________________________________________
 ## Education
 #### **Ph.D., Electronics & Electrical Communication Engineering , IIT Hyderabad** (_2025 - Present_)
 > _Area of Research : Computer Vision, Deep Learning, Bio-medical Image Processing_
-> 
+ 
 #### **M.Tech., Biomedical Engineering , IIT Hyderabad** (_2022 - 2024_)
 > _CGPA : 9.00; Relevant Coursework: Deep Learning, Medical Imaging Devices, Artificial Intelligence in Healthcare_
 
