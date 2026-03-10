@@ -14,7 +14,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Work Experience
-#### **Researcher Scholar @ Image Processing & Computer Vision Lab, IIT Kharagpur** (_December 2025 - Present_)
+#### **Researcher Scholar @ [Image Processing & Computer Vision Lab, IIT Kharagpur](https://ecdept.iitkgp.ac.in/labs/ipcv/)** (_December 2025 - Present_)
 - Worked a bilevel optimization framework for image restoration by nesting a Stochastic Gradient Langevin Dynamics solver within an Energy-Based Model.
 
 
