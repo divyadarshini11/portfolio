@@ -1,21 +1,21 @@
 # PhD @ [IIT Kharagpur](https://www.iitkgp.ac.in/) | ML Engineer
 
 ## Area of Research
-- Computer Vision
 - Deep Learning
+- Optimization
+- Image Analysis
   
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Technical Skills
-- **Technical Knowlegde:** ML, DL, NLP, LLM, RAG, Image Processing
-- **Programming Languages:**  Python, Java, SQL
-- **Frameworks, Libraries & Tools:** PyTorch, TensorFlow, HuggingFace, LangChain, Scikit-learn, Pandas, Numpy, OpenCV, Matplotib, MATLAB, Git, Advanced Excel, FastAPI
+- **Technical Knowlegde:** Deep Learning, Computer Vision, Linear Algebra, Probability and Random Process
+- **Programming Languages & DL Framework:**  Python, Java, PyTorch
 
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Work Experience
 #### **Researcher Scholar @ Image Processing & Computer Vision Lab, IIT Kharagpur** (_December 2025 - Present_)
-- Developed synthetic datasets and fine-tuned optimization algorithms for compressive sensing application.
+- Worked a bilevel optimization framework for image restoration by nesting a Stochastic Gradient Langevin Dynamics solver within an Energy-Based Model.
 
 
 #### **Associate Consultant - Data Science @ Orbees Business Solutions** (_August 2024 - March 2025_)
@@ -62,8 +62,8 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Education
-#### **Ph.D., Electronics & Electrical Communication Engineering , IIT Hyderabad** (_2025 - Present_)
-> _Area of Research : Computer Vision, Deep Learning, Bio-medical Image Processing_
+#### **Ph.D., Electronics & Electrical Communication Engineering , IIT Kharagpur** (_2025 - Present_)
+> _Area of Research : Deep Learning, Optimization, Image Analysis_
  
 #### **M.Tech., Biomedical Engineering , IIT Hyderabad** (_2022 - 2024_)
 > _CGPA : 9.00; Relevant Coursework: Deep Learning, Medical Imaging Devices, Artificial Intelligence in Healthcare_
